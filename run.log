@@ -1,0 +1,108 @@
+/home/jasper/mint-home/projects/github-portfolio/venv/lib/python3.11/site-packages/torch/cuda/__init__.py:1174: UserWarning: Can't initialize NVML
+  raw_cnt = _raw_device_count_nvml()
+Loading Qwen3-8B from /home/jasper/eirene-projects/03-inference-lab/ai-lab/models/Qwen--Qwen3-8B...
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<04:28,  1.48it/s]Loading weights:   1%|          | 2/399 [00:01<04:38,  1.42it/s]Loading weights:   1%|▏         | 5/399 [00:01<01:29,  4.39it/s]Loading weights:   3%|▎         | 12/399 [00:01<00:29, 12.92it/s]Loading weights:   4%|▍         | 16/399 [00:01<00:23, 16.59it/s]Loading weights:   6%|▌         | 24/399 [00:01<00:13, 27.74it/s]Loading weights:   7%|▋         | 29/399 [00:02<00:13, 27.95it/s]Loading weights:   9%|▉         | 37/399 [00:02<00:09, 37.83it/s]Loading weights:  11%|█         | 43/399 [00:02<00:09, 38.94it/s]Loading weights:  12%|█▏        | 49/399 [00:02<00:08, 40.25it/s]Loading weights:  14%|█▍        | 56/399 [00:02<00:07, 46.58it/s]Loading weights:  16%|█▌        | 62/399 [00:02<00:08, 41.82it/s]Loading weights:  18%|█▊        | 70/399 [00:02<00:06, 49.72it/s]Loading weights:  19%|█▉        | 76/399 [00:02<00:06, 47.38it/s]Loading weights:  21%|██        | 82/399 [00:03<00:06, 45.91it/s]Loading weights:  22%|██▏       | 89/399 [00:03<00:06, 51.30it/s]Loading weights:  24%|██▍       | 95/399 [00:03<00:06, 44.54it/s]Loading weights:  26%|██▌       | 103/399 [00:03<00:05, 51.73it/s]Loading weights:  27%|██▋       | 109/399 [00:03<00:05, 48.93it/s]Loading weights:  29%|██▉       | 115/399 [00:03<00:06, 46.86it/s]Loading weights:  31%|███       | 122/399 [00:03<00:05, 52.25it/s]Loading weights:  32%|███▏      | 128/399 [00:04<00:06, 45.02it/s]Loading weights:  34%|███▍      | 136/399 [00:04<00:05, 52.38it/s]Loading weights:  36%|███▌      | 142/399 [00:04<00:04, 52.18it/s]Loading weights:  37%|███▋      | 149/399 [00:04<00:04, 50.88it/s]Loading weights:  40%|████      | 160/399 [00:04<00:03, 59.86it/s]Loading weights:  42%|████▏     | 169/399 [00:04<00:03, 66.33it/s]Loading weights:  44%|████▍     | 176/399 [00:04<00:03, 60.70it/s]Loading weights:  46%|████▌     | 183/399 [00:04<00:04, 50.63it/s]Loading weights:  48%|████▊     | 191/399 [00:05<00:03, 55.94it/s]Loading weights:  49%|████▉     | 197/399 [00:05<00:04, 49.77it/s]Loading weights:  51%|█████     | 203/399 [00:05<00:03, 49.61it/s]Loading weights:  52%|█████▏    | 209/399 [00:05<00:03, 51.92it/s]Loading weights:  54%|█████▍    | 215/399 [00:05<00:04, 44.94it/s]Loading weights:  56%|█████▌    | 224/399 [00:05<00:03, 54.42it/s]Loading weights:  58%|█████▊    | 230/399 [00:05<00:03, 50.64it/s]Loading weights:  59%|█████▉    | 236/399 [00:06<00:03, 47.90it/s]Loading weights:  61%|██████    | 243/399 [00:06<00:02, 52.79it/s]Loading weights:  62%|██████▏   | 249/399 [00:06<00:03, 45.56it/s]Loading weights:  64%|██████▍   | 257/399 [00:06<00:02, 52.79it/s]Loading weights:  66%|██████▌   | 263/399 [00:06<00:02, 49.61it/s]Loading weights:  67%|██████▋   | 269/399 [00:06<00:02, 47.47it/s]Loading weights:  69%|██████▉   | 276/399 [00:06<00:02, 52.62it/s]Loading weights:  71%|███████   | 282/399 [00:06<00:02, 45.36it/s]Loading weights:  73%|███████▎  | 290/399 [00:07<00:02, 52.38it/s]Loading weights:  74%|███████▍  | 296/399 [00:07<00:02, 49.07it/s]Loading weights:  76%|███████▌  | 302/399 [00:07<00:02, 47.05it/s]Loading weights:  77%|███████▋  | 309/399 [00:07<00:01, 52.30it/s]Loading weights:  79%|███████▉  | 315/399 [00:07<00:01, 45.03it/s]Loading weights:  81%|████████  | 323/399 [00:07<00:01, 52.58it/s]Loading weights:  82%|████████▏ | 329/399 [00:07<00:01, 49.58it/s]Loading weights:  84%|████████▍ | 335/399 [00:08<00:01, 47.34it/s]Loading weights:  86%|████████▌ | 342/399 [00:08<00:01, 52.45it/s]Loading weights:  87%|████████▋ | 348/399 [00:08<00:01, 45.20it/s]Loading weights:  89%|████████▉ | 356/399 [00:08<00:00, 52.03it/s]Loading weights:  91%|█████████ | 362/399 [00:08<00:00, 49.08it/s]Loading weights:  92%|█████████▏| 368/399 [00:08<00:00, 47.18it/s]Loading weights:  94%|█████████▍| 375/399 [00:08<00:00, 52.45it/s]Loading weights:  95%|█████████▌| 381/399 [00:09<00:00, 45.08it/s]Loading weights:  97%|█████████▋| 389/399 [00:09<00:00, 52.40it/s]Loading weights:  99%|█████████▉| 395/399 [00:09<00:00, 49.45it/s]Loading weights: 100%|██████████| 399/399 [00:09<00:00, 42.97it/s]
+[transformers] Token indices sequence length is longer than the specified maximum sequence length for this model (298938 > 131072). Running this sequence through the model will result in indexing errors
+Loading wikitext-2 chunks...
+Loaded 32 chunks of 512 tokens each
+Computing per-layer attention entropy...
+Saved entropy to checkpoints/entropy.json
+Adaptive ranks saved (40 layers, total=4000)
+Rank distribution: min=5, max=1994, mean=100.0
+Completed chunks: 0/32
+chunk 1/32 done (nll=2.140)
+chunk 2/32 done (nll=1.338)
+chunk 3/32 done (nll=0.943)
+chunk 4/32 done (nll=0.700)
+chunk 5/32 done (nll=0.455)
+chunk 6/32 done (nll=0.552)
+chunk 7/32 done (nll=0.411)
+chunk 8/32 done (nll=0.332)
+chunk 9/32 done (nll=0.319)
+chunk 10/32 done (nll=0.281)
+chunk 11/32 done (nll=0.256)
+chunk 12/32 done (nll=0.261)
+chunk 13/32 done (nll=0.237)
+chunk 14/32 done (nll=0.226)
+chunk 15/32 done (nll=0.202)
+chunk 16/32 done (nll=0.207)
+chunk 17/32 done (nll=0.184)
+chunk 18/32 done (nll=0.169)
+chunk 19/32 done (nll=0.166)
+chunk 20/32 done (nll=0.143)
+chunk 21/32 done (nll=0.137)
+chunk 22/32 done (nll=0.147)
+chunk 23/32 done (nll=0.140)
+chunk 24/32 done (nll=0.142)
+chunk 25/32 done (nll=0.137)
+chunk 26/32 done (nll=0.116)
+chunk 27/32 done (nll=0.083)
+chunk 28/32 done (nll=0.077)
+chunk 29/32 done (nll=0.091)
+chunk 30/32 done (nll=0.106)
+chunk 31/32 done (nll=0.102)
+chunk 32/32 done (nll=0.054)
+
+Final Results:
+{
+  "model": "Qwen3-8B",
+  "dataset": "wikitext-2-raw-v1 test",
+  "seq_len": 512,
+  "n_chunks": 32,
+  "n_layers": 40,
+  "eps": 0.01,
+  "adaptive": true,
+  "mean_entropy_per_layer": {
+    "0": 176.0,
+    "1": 8.75,
+    "2": 3.078125,
+    "3": 3.78125,
+    "4": 9.875
+  },
+  "ranks": [
+    1994,
+    98,
+    35,
+    43,
+    111,
+    230,
+    53,
+    40,
+    96,
+    35,
+    98,
+    77,
+    53,
+    38,
+    57,
+    41,
+    40,
+    41,
+    43,
+    43,
+    43,
+    44,
+    48,
+    60,
+    42,
+    48,
+    37,
+    35,
+    40,
+    39,
+    48,
+    40,
+    39,
+    33,
+    44,
+    74,
+    5,
+    5,
+    5,
+    5
+  ],
+  "mean_rank": 100.0,
+  "mean_nll": 2.883139453828335,
+  "mean_ppl": 17.87028814994371,
+  "compression_ratio": 1.647184986595173
+}
