@@ -1,0 +1,12 @@
+{
+  "model": "Qwen3-8B",
+  "dataset": "wikitext-2-raw-v1 test",
+  "adaptive": true,
+  "adaptive_nll": 2.8831,
+  "adaptive_ppl": 17.87,
+  "baseline_nll": 2.65,
+  "baseline_ppl": 14.04,
+  "uncompressed_ppl": 12.2,
+  "falsified": false,
+  "verdict": "Adaptive (2.88 NLL, 17.9 PPL) is worse than uncompressed (12.2 PPL). Fixed-rank baseline (2.65 NLL, 14.0 PPL) performs better than adaptive at same budget. Adaptive NLL is not > baseline NLL + 0.5 (2.88 < 3.15), so hypothesis not falsified by this threshold, but adaptive significantly underperforms uncompressed."
+}
